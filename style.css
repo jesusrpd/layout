@@ -1,0 +1,20 @@
+body{
+    background: black;
+}
+
+.card{
+    width: 398px;
+    height: 733px;
+    border-radius: 20px;
+    background: white;
+    margin: 20px;
+}
+
+.card span{
+    height: 56px;
+    width: 100%;
+    display: block;
+    background: red;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
